@@ -1,0 +1,15 @@
+C:\Faculdade\IC\Projeto\IC\IC\bin\Debug\netcoreapp3.1\IC.exe
+C:\Faculdade\IC\Projeto\IC\IC\obj\Debug\netcoreapp3.1\IC.csprojAssemblyReference.cache
+C:\Faculdade\IC\Projeto\IC\IC\obj\Debug\netcoreapp3.1\IC.AssemblyInfoInputs.cache
+C:\Faculdade\IC\Projeto\IC\IC\obj\Debug\netcoreapp3.1\IC.AssemblyInfo.cs
+C:\Faculdade\IC\Projeto\IC\IC\bin\Debug\netcoreapp3.1\IC.deps.json
+C:\Faculdade\IC\Projeto\IC\IC\bin\Debug\netcoreapp3.1\IC.runtimeconfig.json
+C:\Faculdade\IC\Projeto\IC\IC\bin\Debug\netcoreapp3.1\IC.runtimeconfig.dev.json
+C:\Faculdade\IC\Projeto\IC\IC\bin\Debug\netcoreapp3.1\IC.dll
+C:\Faculdade\IC\Projeto\IC\IC\bin\Debug\netcoreapp3.1\IC.pdb
+C:\Faculdade\IC\Projeto\IC\IC\bin\Debug\netcoreapp3.1\LibVLCSharp.dll
+C:\Faculdade\IC\Projeto\IC\IC\obj\Debug\netcoreapp3.1\IC.csproj.CopyComplete
+C:\Faculdade\IC\Projeto\IC\IC\obj\Debug\netcoreapp3.1\IC.dll
+C:\Faculdade\IC\Projeto\IC\IC\obj\Debug\netcoreapp3.1\IC.pdb
+C:\Faculdade\IC\Projeto\IC\IC\bin\Debug\netcoreapp3.1\GerenteDeArquivo.dll
+C:\Faculdade\IC\Projeto\IC\IC\bin\Debug\netcoreapp3.1\GerenteDeArquivo.pdb

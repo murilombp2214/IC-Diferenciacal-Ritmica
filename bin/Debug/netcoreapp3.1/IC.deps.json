@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IC/1.0.0": {
+        "dependencies": {
+          "GerenteDeArquivo": "1.0.0",
+          "LibVLCSharp": "3.4.1"
+        },
+        "runtime": {
+          "IC.dll": {}
+        }
+      },
+      "LibVLCSharp/3.4.1": {
+        "runtime": {
+          "lib/netstandard2.0/LibVLCSharp.dll": {
+            "assemblyVersion": "3.4.1.0",
+            "fileVersion": "3.4.1.0"
+          }
+        }
+      },
+      "GerenteDeArquivo/1.0.0": {
+        "runtime": {
+          "GerenteDeArquivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibVLCSharp/3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yjbJF9tYvCX3Uv4dampI3z4q0aIRuGz+xT9VEte/bC+URM8JGBw/eEWxQHfoWcSZPZH5RdG/GjXVSMcxc3eBdg==",
+      "path": "libvlcsharp/3.4.1",
+      "hashPath": "libvlcsharp.3.4.1.nupkg.sha512"
+    },
+    "GerenteDeArquivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

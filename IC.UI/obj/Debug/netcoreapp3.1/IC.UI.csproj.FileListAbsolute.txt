@@ -1,0 +1,17 @@
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.UI.exe
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.UI.deps.json
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.UI.runtimeconfig.json
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.UI.runtimeconfig.dev.json
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.UI.dll
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.UI.pdb
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.GerenteDeArquivo.dll
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.Utils.dll
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.GerenteDeArquivo.pdb
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\bin\Debug\netcoreapp3.1\IC.Utils.pdb
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\obj\Debug\netcoreapp3.1\IC.UI.AssemblyInfoInputs.cache
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\obj\Debug\netcoreapp3.1\IC.UI.AssemblyInfo.cs
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\obj\Debug\netcoreapp3.1\IC.UI.csproj.CoreCompileInputs.cache
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\obj\Debug\netcoreapp3.1\IC.UI.csproj.CopyComplete
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\obj\Debug\netcoreapp3.1\IC.UI.dll
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\obj\Debug\netcoreapp3.1\IC.UI.pdb
+C:\Faculdade\IC\Projeto\IC-Diferenciacal-Ritmica\IC.UI\obj\Debug\netcoreapp3.1\IC.UI.genruntimeconfig.cache

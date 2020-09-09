@@ -1,0 +1,8 @@
+C:\Faculdade\IC\Projeto\IC\GerenteDeArquivo\bin\Debug\netstandard2.0\GerenteDeArquivo.deps.json
+C:\Faculdade\IC\Projeto\IC\GerenteDeArquivo\bin\Debug\netstandard2.0\GerenteDeArquivo.dll
+C:\Faculdade\IC\Projeto\IC\GerenteDeArquivo\bin\Debug\netstandard2.0\GerenteDeArquivo.pdb
+C:\Faculdade\IC\Projeto\IC\GerenteDeArquivo\obj\Debug\netstandard2.0\GerenteDeArquivo.csprojAssemblyReference.cache
+C:\Faculdade\IC\Projeto\IC\GerenteDeArquivo\obj\Debug\netstandard2.0\GerenteDeArquivo.AssemblyInfoInputs.cache
+C:\Faculdade\IC\Projeto\IC\GerenteDeArquivo\obj\Debug\netstandard2.0\GerenteDeArquivo.AssemblyInfo.cs
+C:\Faculdade\IC\Projeto\IC\GerenteDeArquivo\obj\Debug\netstandard2.0\GerenteDeArquivo.dll
+C:\Faculdade\IC\Projeto\IC\GerenteDeArquivo\obj\Debug\netstandard2.0\GerenteDeArquivo.pdb
